@@ -10,6 +10,8 @@ body {
   font-weight: bold;
 }
 
+
+
 button {
   font-family: "Raleway" , sans-serif;
   font-weight: bold;
@@ -128,7 +130,14 @@ nav{
 }
 
 .cartas1, .cartas2{
-  margin:100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+#infoImpo{
+  margin-bottom: 100px;
 }
 
 .imagenCards{
